@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **kkeru43/kkeru43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
